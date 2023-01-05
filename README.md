@@ -8,7 +8,7 @@ or code it perfectly; I am not going to stop and will always learn something new
 - 🌱 I’m currently pursuing my Bachelor's in Computer Science & Engineering (B.Tech in CSE).
 - 💞️ I’m looking to collaborate on App/Web Development, Full Stack Projects.
 - 📫 Just reach me out on LinkedIn for anything....
-- https://www.linkedin.com/in/suraj-singh-089ba5202/
+- https://www.linkedin.com/in/surajsingh542/
 
 <!---
 surajsingh542/surajsingh542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
