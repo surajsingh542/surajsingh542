@@ -98,11 +98,11 @@ Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=ins
       height="30"
       width="40"
   /></a>
-  <a href="https://www.youtube.com/c/ss plays yt" target="blank"
+  <a href="https://www.youtube.com/@ssplaysyt" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="ss plays yt"
+      alt="@ssplaysyt"
       height="30"
       width="40"
   /></a>
