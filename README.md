@@ -63,6 +63,10 @@ Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=ins
   />
 </p>
 
+## Hacktoberfest 2023
+
+[![An image of @surajsingh542's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajsingh542)](https://holopin.io/@surajsingh542)
+
 ## 🔗 Connect with me
 
 <p align="center">
